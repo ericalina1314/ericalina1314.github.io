@@ -1,6 +1,7 @@
-travel-blog
+Eric and Alina's travelling blog.
 ===========
 
-HTML mockup for a travelling blog project
+Thanks for HTML mockup http://sthobis.github.io/travel-blog/
 
-live preview : http://sthobis.github.io/travel-blog/
+The preview of our blog is: https://ericalina1314.github.io/
+
